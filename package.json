@@ -1,0 +1,22 @@
+{
+  "name": "lodown-vzing",
+  "version": "1.0.6",
+  "description": "my own lodown library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VZing/lodown.git"
+  },
+  "author": "Veronica Zingarelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VZing/lodown/issues"
+  },
+  "homepage": "https://github.com/VZing/lodown#readme"
+}
